@@ -1,4 +1,4 @@
-module aws-sigv4-proxy
+module github.com/ztreinhart/aws-sigv4-proxy
 
 go 1.17
 

@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"time"
 
-	"aws-sigv4-proxy/handler"
+	"github.com/ztreinhart/aws-sigv4-proxy/handler"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
